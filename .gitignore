@@ -1,0 +1,12 @@
+ipch
+obj
+/Wpf Call MFC DLL Form/MFCLibrary2/Debug
+/Wpf Call MFC DLL Form/MFCApplication1/Debug
+/Wpf Call MFC DLL Form/*.sdf
+/Wpf Call MFC DLL Form/Debug/*.exp
+/Wpf Call MFC DLL Form/Debug/*.ilk
+/Wpf Call MFC DLL Form/Debug/*.xml
+/Wpf Call MFC DLL Form/Debug/*.lib
+/Wpf Call MFC DLL Form/Debug/*.pdb
+/Wpf Call MFC DLL Form/Debug/*.config
+/Wpf Call MFC DLL Form/MFCLibrary2/*.aps
